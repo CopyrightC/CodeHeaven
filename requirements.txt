@@ -30,7 +30,6 @@ PyRect==0.1.4
 PyScreeze==0.1.26
 PyTweening==1.0.3
 pytz==2021.1
-pywin32==300
 pywin32-ctypes==0.2.0
 six==1.15.0
 sqlparse==0.4.1
