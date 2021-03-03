@@ -1,2 +1,2 @@
 # CodeHeaven
-Codeheaven is a website amde using django showcasing some of my cool projects
+Codeheaven is a website made using django showcasing some of my cool projects
